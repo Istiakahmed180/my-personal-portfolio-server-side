@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Computer Science",
+        "image1":"https://i.ibb.co/7gR4F74/Computer-Science1.png",
+        "image2":"https://i.ibb.co/K5dL76n/Computer-Science2.png",
+        "image3":"https://i.ibb.co/sHWc28H/Computer-Science3.png",
+        "image4":"https://i.ibb.co/L8Yb9Z4/Computer-Science4.png",
+        "live_link":"https://computer-science-auth.web.app/",
+        "github_link":"https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-Istiakahmed180",
+        "point1":"This has been created for course-related purposes. You can see all courses related to computer Science",
+        "point2":"This website provides detailed information on all computer-related courses. A user can select the course as per his wish.",
+        "point3":"The specific price of each course is stated. The price is fixed according to how many days the course will last. This website has full backend work done",
+        "technology_used":"React, React Router Dom, Tailwind CSS, Express JS, Firebase Authentication, MongoDB, Node JS."
+    },
+    {
+        "id":2,
+        "name":"Shop BD",
+        "image1":"https://i.ibb.co/sgNvvjQ/ShopBD1.png",
+        "image2":"https://i.ibb.co/jrtmnTc/ShopBD2.png",
+        "image3":"https://i.ibb.co/Fhfwxxh/ShopBD3.png",
+        "image4":"https://i.ibb.co/KX5qmBj/ShopBD4.png",
+        "live_link":"https://final-project-authentica-e945f.web.app/",
+        "github_link":"https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-Istiakahmed180",
+        "point1":"This website has been created for the purpose of buying laptops. Laptop services are built from a full backend.",
+        "point2":"Users can buy and delete any product. With it, a seller can add and delete products, but the seller must be verified",
+        "point3":"An admin can make a seller or buyer an admin if they want. Admin can see sellers and buyers on his dashboard. If there is no seller verification here, the seller will not be allowed to go to the dashboard",
+        "technology_used":"React, React Router Dom, Tailwind CSS, Express JS, Firebase Authentication, MongoDB, Node JS."
+    },
+    {
+        "id":3,
+        "name":"Travigo",
+        "image1":"https://i.ibb.co/tYz4P5v/Travigo1.png",
+        "image2":"https://i.ibb.co/F0pMnM9/Travigo2.png",
+        "image3":"https://i.ibb.co/WBhhY7c/Travigo3.png",
+        "image4":"https://i.ibb.co/V3MtzbJ/Travigo4.png",
+        "live_link":"https://travel-service-authentic-244f7.web.app/",
+        "github_link":"https://github.com/Porgramming-Hero-web-course/b6a11-service-review-client-side-Istiakahmed180",
+        "point1":"This website offers travel services. Users can book any travel service from this site. And you can see all the benefits.",
+        "point2":"After booking a service, a user can view that service if the user is logged in to the account.",
+        "point3":"If the user adds the service to the review page, the user can delete the service and review it again.",
+        "technology_used":"React, React Router Dom, Tailwind CSS, Express JS, Firebase Authentication, MongoDB, Node JS."
+    }
+]
